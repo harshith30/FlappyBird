@@ -14,6 +14,6 @@ NSInteger HighScore;
     IBOutlet UILabel *highScore;
 }
 
-
+     
 @end
 
